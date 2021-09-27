@@ -19,7 +19,7 @@ const GiftExpertApp = () => {
             <h2>Gift Expert App</h2>
             <hr/>
             
-            <AddCategory />
+            <AddCategory setcategories={ setcategories } />
 
             <ol>
                 {
