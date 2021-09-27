@@ -10,3 +10,7 @@ const GiftExpertApp = () => {
         </>
     );
 }
+
+export {
+    GiftExpertApp
+}
