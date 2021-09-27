@@ -9,7 +9,8 @@ const GiftExpertApp = () => {
     const [categories, setcategories] = useState( ['One Punch', 'Samurai X', 'Dragon Ball'] );
 
     const handleAdd = () => {
-        setcategories([...categories,'HunterXHunter']);
+        //setcategories([...categories,'HunterXHunter']);
+        setcategories( cats => [...cats, 'HunterXHunter']);
     }
 
     return (
