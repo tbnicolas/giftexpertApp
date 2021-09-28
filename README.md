@@ -70,5 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-## Crear Archivo .Env
+## Crear Archivo .Env a conveniencia
 Si se quiere utilizar el hot reload crear un archivo .env en la raiz del directorio y colocar FAST_REFRESH=false
