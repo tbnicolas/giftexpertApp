@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Crear Archivo .Env a conveniencia 
-Si se quiere utilizar el hot reload crear un archivo .env en la raiz del directorio y colocar FAST_REFRESH=false, favor no subir el archivo .env
+Si se quiere utilizar el hot reload crear un archivo .env en la raiz del directorio y colocar FAST_REFRESH=false, favor no subir el archivo .env  
