@@ -38,4 +38,8 @@ input {
   min-width: 170px;
 }
 
-
+.circular-indicator{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
